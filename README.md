@@ -8,4 +8,4 @@ As I move along with the project, I will update this READEME file.
 Happy Coding!
 
 
-10/11/2022 - I have just implemented the start of the backend. I will be using sanity to handle most, if not all, of my data entries and storage. 
+10/11/2022 - I have just implemented the start of the backend. I will be using sanity to handle most, if not all, of my data entries and storage. I also created a react app inside of my frontend folder and started adding dependencies.
